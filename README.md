@@ -7,6 +7,8 @@ Lucky 官网：https://lucky666.cn/
 
 使用Docky 部署lucky/SSL/反向代理/HTTPS 等，参考：https://blog.aliluya.com/archives/GzxQ6QUf
 
+也可通过安装矿神插件中的lucky直接部署，矿神源网站：https://imnks.com/1780.html
+
 ## Cloudflare 域名注册相关
 官网：https://www.cloudflare.com/zh-cn/products/registrar/
 
