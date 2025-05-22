@@ -22,3 +22,5 @@ Lucky 官网：https://lucky666.cn/
 
 ![屏幕截图 2025-05-22 174517](https://github.com/user-attachments/assets/24873752-9a6c-445f-81b6-77dda61a0087)
 
+
+### 因为cloudflare不支持自定义端口，因此如果需要使用cloudflare代理，xuyao
