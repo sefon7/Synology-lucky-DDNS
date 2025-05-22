@@ -19,4 +19,5 @@ Lucky 官网：https://lucky666.cn/
 
 ## 如果配置合理，在cloudflare的DNS解析记录中应显示如下图（代理小黄云一栏应显示灰色），并且已经可以通过域名在外网访问
 
-![屏幕截图 2025-05-22 174517](https://github.com/user-attachments/assets/4054c664-2de7-4706-b424-ce9695e86b9f)
+![屏幕截图 2025-05-22 174517](https://github.com/user-attachments/assets/24873752-9a6c-445f-81b6-77dda61a0087)
+
