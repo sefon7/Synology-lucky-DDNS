@@ -12,4 +12,4 @@ Lucky 官网：https://lucky666.cn/
 ## Cloudflare 域名注册相关
 官网：https://www.cloudflare.com/zh-cn/products/registrar/
 
-<ins>同时可以将阿里云或者腾讯云域名通过更改DNS转移到Cloudflare，但是不如直接在cloudflare直接注册方便</ins>
+ <ins>同时可以将阿里云或者腾讯云域名通过更改DNS转移到Cloudflare，但是不如直接在cloudflare直接注册方便</ins>
