@@ -13,3 +13,10 @@ Lucky 官网：https://lucky666.cn/
 官网：https://www.cloudflare.com/zh-cn/products/registrar/
 
  <ins>同时可以将阿里云或者腾讯云域名通过更改DNS转移到Cloudflare，但是不如直接在cloudflare直接注册方便</ins>
+
+ 部署和配置API相关：https://www.ioiox.com/archives/105.html
+
+
+## 如果配置合理，在cloudflare的DNS解析记录中应显示如下图（代理小黄云一栏应显示灰色），并且已经可以通过域名在外网访问
+
+![屏幕截图 2025-05-22 174517](https://github.com/user-attachments/assets/4054c664-2de7-4706-b424-ce9695e86b9f)
