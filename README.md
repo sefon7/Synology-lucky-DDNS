@@ -3,5 +3,5 @@
 
 
 ## 群晖安装Lucky 插件
-Lucky 官网：https://lucky666.cn/
-使用Docky 部署lucky/SSL/反向代理/HTTPS 等，参考：https://blog.aliluya.com/archives/GzxQ6QUf
+Lucky 官网：https://lucky666.cn/\
+使用Docky 部署lucky/SSL/反向代理/HTTPS 等，参考：https://blog.aliluya.com/archives/GzxQ6QUf\
