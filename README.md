@@ -5,7 +5,7 @@
 ## 群晖安装Lucky 插件
 Lucky 官网：https://lucky666.cn/
 
-使用Docky 部署lucky/SSL/反向代理/HTTPS 等，参考：https://blog.aliluya.com/archives/GzxQ6QUf
+使用Docker 部署lucky/SSL/反向代理/HTTPS 等，参考：https://blog.aliluya.com/archives/GzxQ6QUf
 
 也可通过安装矿神插件中的lucky直接部署，矿神源网站：https://imnks.com/1780.html
 
@@ -23,4 +23,4 @@ Lucky 官网：https://lucky666.cn/
 ![屏幕截图 2025-05-22 174517](https://github.com/user-attachments/assets/24873752-9a6c-445f-81b6-77dda61a0087)
 
 
-### 因为cloudflare不支持自定义端口，因此如果需要使用cloudflare代理，xuyao
+### 因为cloudflare不支持自定义端口，因此如果需要使用cloudflare代理，需要用到lucky web服务中的反向代理功能
