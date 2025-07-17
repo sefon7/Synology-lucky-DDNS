@@ -32,7 +32,7 @@ Lucky 官网：https://lucky666.cn/
 ### 因为cloudflare不支持自定义端口，因此如果需要使用cloudflare代理，需要用到lucky web服务中的反向代理功能
 web服务端口转发教程：https://www.bilibili.com/opus/945751949168345108  
 https://blog.aliluya.com/archives/GzxQ6QUf  
-https://zhuanlan.zhihu.com/p/671514074 （其中包括SSL/HTTPS 教程)  
+https://zhuanlan.zhihu.com/p/671514074 （其中包括SSL证书/HTTPS 教程)  
 Cloudflare支持的端口：https://chjina.com/archives/191  
 
 以Https 端口 2053 为例， NAS代理规则如下：
@@ -42,6 +42,7 @@ Cloudflare支持的端口：https://chjina.com/archives/191
 
 
 
+## 将http反向代理到https中
 
 
 
