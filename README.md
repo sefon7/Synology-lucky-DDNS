@@ -42,7 +42,7 @@ Cloudflare支持的端口：https://chjina.com/archives/191
 
 
 
-## 将http反向代理到https中
+## 将http反向代理到https
 
 如何让大多数nas的http服务走CF代理以确保家用网络安全？我们仍需要前面说到的lucky端口转发服务。我们以CF的https端口8443为例，
 
@@ -50,6 +50,13 @@ Cloudflare支持的端口：https://chjina.com/archives/191
 <img width="813" height="154" alt="Screenshot 2025-07-17 202107" src="https://github.com/user-attachments/assets/32e1ba8e-838a-4918-9e4e-d78a0d19eb03" />
 
 **其中我们转发了nas中的mango,Komaga和Jellyfin服务，其中后面白色框的地址为在nas中的原始http地址加原始端口号。蓝色部分为转发到CF的https地址+代理8443端口号**
+
+
+<img width="419" height="515" alt="Screenshot 2025-07-17 202053" src="https://github.com/user-attachments/assets/f1818f7f-7923-4b81-8307-e9606ea9b2f8" />
+
+详细设置如上图所示
+
+
 
 
 
