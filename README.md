@@ -22,10 +22,16 @@ Lucky 官网：https://lucky666.cn/
 
 ![屏幕截图 2025-05-22 174517](https://github.com/user-attachments/assets/24873752-9a6c-445f-81b6-77dda61a0087)
 
+动态域名列表可以写两个，一个是你的域名本身地址，另一个是*.你的地址（意思是CF可以代理NAS的其他服务，包括Jellyfin, komanga等服务）  
+<img width="638" height="112" alt="Screenshot 2025-07-17 200117" src="https://github.com/user-attachments/assets/434a4cbf-81d6-45f5-b124-dd478a5ae229" />
+
+
+
 
 ## 端口转发相关
 ### 因为cloudflare不支持自定义端口，因此如果需要使用cloudflare代理，需要用到lucky web服务中的反向代理功能
 web服务端口转发教程：https://www.bilibili.com/opus/945751949168345108  
+https://blog.aliluya.com/archives/GzxQ6QUf  
 https://zhuanlan.zhihu.com/p/671514074 （其中包括SSL/HTTPS 教程）  
 Cloudflare支持的端口：https://chjina.com/archives/191/  
 
