@@ -14,7 +14,7 @@ Lucky 官网：https://lucky666.cn/
 
  <ins>同时可以将阿里云或者腾讯云域名通过更改DNS转移到Cloudflare，但是不如直接在cloudflare直接注册方便</ins>
 
- 部署和配置API相关：https://www.ioiox.com/archives/105.html
+ 部署和配置API相关：https://www.ioiox.com/archives/105.html （后面的群晖原生ddns设置可以不用看）
 
 
 
