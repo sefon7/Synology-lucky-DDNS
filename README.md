@@ -38,7 +38,10 @@ Cloudflare支持的端口：https://chjina.com/archives/191/
 以Https 端口 2053 为例， NAS代理规则如下：
 <img width="787" height="99" alt="Screenshot 2025-07-17 195307" src="https://github.com/user-attachments/assets/f1a5a93c-d73d-4368-8bda-33305506f8dc" />    
 
-<img width="418" height="518" alt="Screenshot 2025-07-17 200943" src="https://github.com/user-attachments/assets/354fbfe4-f4a7-492e-94cf-e00dc1e19f09" />  
+<img width="418" height="518" alt="Screenshot 2025-07-17 200943" src="https://github.com/user-attachments/assets/354fbfe4-f4a7-492e-94cf-e00dc1e19f09" />    
+
+
+
 
 
 
