@@ -54,7 +54,23 @@ Cloudflare支持的端口：https://chjina.com/archives/191
 
 <img width="419" height="515" alt="Screenshot 2025-07-17 202053" src="https://github.com/user-attachments/assets/f1818f7f-7923-4b81-8307-e9606ea9b2f8" />
 
-详细设置如上图所示
+详细设置如上图所示  
+
+
+现在所有服务已经转发成功，可以在CF的DNS中开启代理，代理状态会变为黄色的云，意思为已开启代理。
+
+## CF安全性设置
+
+在安全性-安全规则中设置，详细可参考：https://cyrians.com/cloudflare-rules-for-wordpress-websites-tweaking/  
+
+可以设置为中国IP托管质询，中国IP以外的直接拒绝访问，最大限度的保证家用网络的安全，效果如下：  
+
+
+<img width="1001" height="882" alt="Screenshot 2025-07-17 203627" src="https://github.com/user-attachments/assets/d8f2a3da-b585-4ff5-83c6-824bfa4e80f8" />
+
+
+
+
 
 
 
